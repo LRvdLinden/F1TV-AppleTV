@@ -1,12 +1,14 @@
 
 <h1 align="center">Unofficial F1 TV app for Apple TV</h1> 
 
+
+
 ![icon_rounded_vroom](https://user-images.githubusercontent.com/77990847/132136995-43210a27-174e-4ff8-b278-7c2de3c82d82.png)
 
 
 This app is unofficial and is not associated in any way with the Formula 1 companies. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One Licensing B.V.
 
-## Requirements 
+## Requirements ⚠️
 ---
 
 - Your AppleTV must be running tvOS 14.0 or higher
