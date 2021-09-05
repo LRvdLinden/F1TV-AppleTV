@@ -1,6 +1,6 @@
 # F1 TV
 
-<h1 align="center">Unofficial F1 TV for Apple TV</h1> 
+<h1 align="center">Unofficial F1 TV app for Apple TV</h1> 
 
 ![icon_rounded_vroom](https://user-images.githubusercontent.com/77990847/132136995-43210a27-174e-4ff8-b278-7c2de3c82d82.png)
 
