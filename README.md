@@ -5,17 +5,20 @@
 
 This app is unofficial and is not associated in any way with the Formula 1 companies. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One Licensing B.V.
 
-## Requirements
+## Requirements 
+---
 
 - Your AppleTV must be running tvOS 14.0 or higher
 
-## Installation - TestFlight (Recommended)
+## Installation - TestFlight ⚙️
+---
 
 - Go to the AppStore on your AppleTV & iPhone and search for "TestFlight" and install it
 - Open this link with your iPhone and Accept the invite (https://testflight.apple.com/join/NRswe1IZ)
 - Open TestFlight on your AppleTV and download the App from there
 
 ## Screenshots
+---
 
 ![F1TV-1](https://user-images.githubusercontent.com/77990847/132137012-55a89117-0972-4261-8ddf-9867cd662f72.png)
 ![F1TV-2](https://user-images.githubusercontent.com/77990847/132137014-b1ee45d2-ebbe-48a6-96fd-32fd8f86a9e4.png)
