@@ -11,6 +11,7 @@ This app is unofficial and is not associated in any way with the Formula 1 compa
 ---
 
 - Your AppleTV must be running tvOS 14.0 or higher
+- F1 TV Pro account
 
 ## Installation - TestFlight ⚙️
 ---
