@@ -17,12 +17,13 @@ This app is unofficial and is not associated in any way with the Formula 1 compa
 
 ## Screenshots
 
-![](Screenshots/F1TV-1.png)
-![](Screenshots/F1TV-2.png)
-![](Screenshots/F1TV-3.png)
-![](Screenshots/F1TV-4.png)
-![](Screenshots/F1TV-5.png)
-![](Screenshots/F1TV-6.png)
-![](Screenshots/F1TV-7.png)
-![](Screenshots/F1TV-8.png)
-![](Screenshots/F1TV-9.png)
+![F1TV-1](https://user-images.githubusercontent.com/77990847/132137012-55a89117-0972-4261-8ddf-9867cd662f72.png)
+![F1TV-2](https://user-images.githubusercontent.com/77990847/132137014-b1ee45d2-ebbe-48a6-96fd-32fd8f86a9e4.png)
+![F1TV-3](https://user-images.githubusercontent.com/77990847/132137015-342e710e-4b36-47a3-bf7c-079be8f0f89b.png)
+![F1TV-4](https://user-images.githubusercontent.com/77990847/132137016-c26c655a-817b-4fa8-98ad-ba43bedc2143.png)
+![F1TV-5](https://user-images.githubusercontent.com/77990847/132137017-7edb1554-e13d-4825-8efb-052787859ef9.png)
+![F1TV-6](https://user-images.githubusercontent.com/77990847/132137019-77f41267-386a-4adf-94af-6b3bf7bb38d1.png)
+![F1TV-7](https://user-images.githubusercontent.com/77990847/132137020-8bf6ea2e-cdc0-4700-a799-1f1e824150e2.png)
+![F1TV-8](https://user-images.githubusercontent.com/77990847/132137021-30631157-05aa-49c4-a773-f6dc864e0441.png)
+![F1TV-9](https://user-images.githubusercontent.com/77990847/132137022-e280f688-ade4-43c3-b5b8-fcd26278c782.png)
+
