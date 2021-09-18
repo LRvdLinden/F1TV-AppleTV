@@ -25,7 +25,8 @@ This app is unofficial and is not associated in any way with the Formula 1 compa
 ## Multi-Feed Player Tutorial
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3GLWQ11-bQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/77990847/133896378-c7433ae2-8dfb-4e3b-b943-0e75643b79ea.mp4
+
 
 
 
