@@ -19,7 +19,7 @@ This app is unofficial and is not associated in any way with the Formula 1 compa
 ---
 
 - Go to the AppStore on your AppleTV & iPhone and search for "TestFlight" and install it
-- Open this link with your iPhone and Accept the invite (https://testflight.apple.com/join/NRswe1IZ)
+- Open this link with your iPhone and Accept the invite (https://testflight.apple.com/join/20wxtlID)
 - Open TestFlight on your AppleTV and download the App from there
 
 ## Multi-Feed Player Tutorial
