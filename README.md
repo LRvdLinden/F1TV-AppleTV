@@ -1,5 +1,5 @@
 
-## <h1 align="center">Unofficial F1 TV app for Apple TV</h1> 
+## <h1 align="center">F1 TV (Unofficial)app for Apple TV</h1> 
 ---
 
 
