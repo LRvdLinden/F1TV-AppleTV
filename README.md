@@ -22,6 +22,13 @@ This app is unofficial and is not associated in any way with the Formula 1 compa
 - Open this link with your iPhone and Accept the invite (https://testflight.apple.com/join/NRswe1IZ)
 - Open TestFlight on your AppleTV and download the App from there
 
+## Multi-Feed Player Tutorial
+---
+
+https://user-images.githubusercontent.com/77990847/133885257-82dabd5a-8279-4bde-9d51-9542d2003c53.mp4
+
+
+
 ## Screenshots
 ---
 
