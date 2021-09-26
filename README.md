@@ -3,8 +3,9 @@
 ---
 
 
+![icon_rounded_vroom](https://user-images.githubusercontent.com/77990847/134799215-bd38509f-0967-4654-a497-b7e95b8fae7e.png)
 
-![icon_rounded_vroom](https://user-images.githubusercontent.com/77990847/132136995-43210a27-174e-4ff8-b278-7c2de3c82d82.png)
+
 
 
 This app is unofficial and is not associated in any way with the Formula 1 companies. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One Licensing B.V.
